@@ -7,4 +7,8 @@ __pycache__/
 DATA/app.db
 DATA/users.txt
 .streamlit/secrets.toml
+<<<<<<< HEAD
 practice/
+=======
+practice/
+>>>>>>> c395256 (Week 9: register and log in with bcrypt)
